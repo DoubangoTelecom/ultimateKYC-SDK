@@ -1,2 +1,3 @@
-# ultimateKYC-SDK
-Know Your Customer (KYC) implementation using identity document OCR, face match, liveness detection and much more
+Source code coming soon. Contact us to get notified or for beta testing.
+
+https://www.doubango.org/index.html#contact
